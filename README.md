@@ -1,16 +1,16 @@
 # Machine learning
 
 ## Linear models
+- [Polynomial regression](linear-models/Polynomial%20regression.ipynb)
 - [] Linear regression
 - [] Ridge regression
-- [] Polynomial regression
 - [] Logistic regression
 
 ## Support vector machines
 - [] SVM regression
 - [] SVM classification
 
-## Nearest neighbours
+## Nearest neighbors
 - [] K nearest neighbors
 
 ## Kernel methods
